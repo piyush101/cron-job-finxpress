@@ -1,0 +1,17 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+pymongo[srv]
+sentence-transformers
+certifi
+transformers
+newspaper3k
+pytz
+torch==1.8.0+cpu 
+torchvision==0.9.0+cpu
+selenium
+webdriver-manager
+schedule
+certifi
+feedparser
+ipython
+
+
